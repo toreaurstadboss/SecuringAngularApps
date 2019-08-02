@@ -5,6 +5,11 @@ This repo is a follow along the course Securing with OpenId / Oauth Angular appl
 login:
 admin@globomantics.com / Test123!!!
 
+More users can be registered into the IdentityServer by visiting:
+http://localhost:4242/account/register
+
+(Run the backend as multiple projects from VS 2019)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
